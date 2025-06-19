@@ -6,7 +6,7 @@ This repository contains **Task 3** of the Data Science Internship offered by **
 To develop a classification model using the **Decision Tree algorithm**. The model predicts whether a customer will subscribe to a term deposit based on various features in the dataset. The task also includes data preprocessing, feature selection, training, evaluation, and visualization of the decision tree.
 
 ## Files
-- <a>[Ds_Task3.ipynb ](https://github.com/rohitg8951/Prodigy-Infotech-DS-Task-1/blob/main/DS-Task3.ipynb)</a>
+- <a>[Ds_Task3.ipynb ](https://github.com/rohitg8951/Prodigy-Infotech-DS-Task-1/blob/main/DS_Task3.ipynb)</a>
 - <a>[bank-additional.csv ](https://github.com/rohitg8951/Prodigy-Infotech-DS-Task-1/blob/main/bank-additional.csv)</a>
 
 ## Tools and Libraries Used
